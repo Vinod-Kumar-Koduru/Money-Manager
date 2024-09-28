@@ -1,0 +1,25 @@
+.tansation-contai {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid #d7dfe9;
+  height: 45px;
+  width: 400px;
+}
+.delete-icon {
+  height: 30px;
+  width: 20px;
+  margin-left: 20px;
+}
+.trasction {
+  color: #334155;
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: 500;
+}
+.delete-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
